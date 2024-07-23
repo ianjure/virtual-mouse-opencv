@@ -1,5 +1,7 @@
 ## SHORT DEMO
-https://github.com/user-attachments/assets/1bc5c65b-44c5-4620-a82a-46b68df82292
+https://github.com/user-attachments/assets/e4230e62-821b-4dbe-b2b2-77da2388f05a
+
+
 
 ## PROJECT INSPIRATION
 [AI Virtual Mouse](https://youtu.be/8gPONnGIPgw?si=gqeemaW_awWdzA0L)
